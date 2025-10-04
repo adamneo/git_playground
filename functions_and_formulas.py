@@ -9,3 +9,6 @@ def subtractNumbers(x,y):
 
 def divideNumbers(x,y):
     return x / y
+
+def remainderNumbers(x,y):
+    return x // y
