@@ -19,4 +19,5 @@ def powerNumbers(x,y):
 def remainderNumbers(x,y):
     return x // y
 
-# Adding a random comment
+def pipeNumbers(x,y):
+    return str(x) + "||" + str(y)
