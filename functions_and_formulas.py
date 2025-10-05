@@ -12,6 +12,3 @@ def divideNumbers(x,y):
 
 def remainderNumbers(x,y):
     return x // y
-
-
-I messed up bigtime
